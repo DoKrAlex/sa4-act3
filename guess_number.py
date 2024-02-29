@@ -13,5 +13,3 @@ for _ in range(max_guesses):
         print("Too low. Try again.")
     else:
         print("Too high. Try again.")
-else:
-    print(f"Sorry, you've run out of guesses. The number was {number}.")
